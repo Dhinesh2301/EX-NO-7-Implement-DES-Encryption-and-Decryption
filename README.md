@@ -58,7 +58,8 @@ return 0;
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/f649193c-d4db-4ef9-b7e5-5155760a2566)
+![image](https://github.com/user-attachments/assets/f9e411cd-34a2-4fc7-b307-f74a2bfb9edd)
+
 
 
 ## Result:
